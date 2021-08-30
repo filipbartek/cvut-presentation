@@ -1,0 +1,9 @@
+# TeXstudio
+*.aux
+*.log
+*.nav
+*.out
+*.pdf
+*.snm
+*.synctex.gz
+*.toc
